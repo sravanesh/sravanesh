@@ -1,8 +1,8 @@
 # Hi, I'm Sravanesh Desu 👋 🚀 💻 Data Analyst | 📊 Problem Solver 
 
-I love building data-driven solutions, exploring new technologies 🌐, and solving DSA challenges 🧠. Turning raw data into actionable insights and real-world projects is what excites me the most 🔥.
+I love building predictive models, writing optimized SQL queries 💻, and designing interactive Power BI dashboards 📊. Turning messy, real-world data into clear strategies and impactful visual stories is what excites me the most 🔥.
+Driven by curiosity 🌐, evolving with every project 📈, and focused on building meaningful technology 💡 and aiming to bridge the gap between data and decision-making 💡
 
-Always learning 📈, always growing 🌱, and aiming to write clean, impactful code 💡
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
