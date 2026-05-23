@@ -1,4 +1,5 @@
-# Hi, I'm Sravanesh Desu 👋 🚀 💻 Data Analyst | 📊 Problem Solver 
+# Hi, I'm Sravanesh Desu 👋 
+🚀 💻 Data Analyst | 📊 Problem Solver 
 
 I love building predictive models, writing optimized SQL queries 💻, and designing interactive Power BI dashboards 📊. Turning messy, real-world data into clear strategies and impactful visual stories is what excites me the most 🔥.
 Driven by curiosity 🌐, evolving with every project 📈, and focused on building meaningful technology 💡 and aiming to bridge the gap between data and decision-making 💡
